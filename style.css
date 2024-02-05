@@ -3,6 +3,49 @@
 #####################################################
 #####################################################
 #####################################################
+
+  <style>
+    /* 以下がCSSの例です */
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #4caf50;
+      color: white;
+      padding: 1em;
+      text-align: center;
+    }
+
+    section {
+      margin: 20px;
+    }
+
+    h1 {
+      color: #4caf50;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+
+    .highlight {
+      background-color: yellow;
+      font-weight: bold;
+    }
+
+    /* レスポンシブデザインの例 */
+    @media (max-width: 600px) {
+      body {
+        font-size: 14px;
+      }
+    }
+  </style>
+
 #####################################################
 
 
