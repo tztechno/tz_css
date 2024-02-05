@@ -1,1 +1,25 @@
 
+
+<div id=baseall>
+<header role=banner>
+<div class=header_wp>
+<div class="sp_navi pc-none">
+<div class=sp_head_wp>
+<div class="sp_head_logp pc-none">
+<div class=sp_headin>
+
+
+<amp-sidebar id="sidebar" class="drawer_menu" side="right" layout="nodisplay" hidden="hidden"><button name="button" type="button" class="drawer_close" on="tap:sidebar.close">×</button><div class="page_info"><div class="heading">多可赤十字病院の情報</div><ul><li><button name="button" type="button" on="tap:sidebar.close,guide.scrollTo" data-extended-click="{&quot;event_category&quot;:&quot;drawer_menu&quot;,&quot;event_label&quot;:&quot;corp_info&quot;,&quot;event_sub_label&quot;:&quot;guide&quot;,&quot;send_to&quot;:&quot;G-59XEMD0N98&quot;}" data-gtm-cross-sectional-click="{&quot;event&quot;:&quot;byoinnavi-drawer-menu-click&quot;,&quot;click_label&quot;:&quot;corp_info&quot;,&quot;click_sub_label&quot;:&quot;guide&quot;}">診療案内</button></li><li><button name="button" type="button" on="tap:sidebar.close,corp_map.scrollTo" data-extended-click="{&quot;event_category&quot;:&quot;drawer_menu&quot;,&quot;event_label&quot;:&quot;corp_info&quot;,&quot;event_sub_label&quot;:&quot;map&quot;,&quot;send_to&quot;:&quot;G-59XEMD0N98&quot;}" data-gtm-cross-sectional-click="{&quot;event&quot;:&quot;byoinnavi-drawer-menu-click&quot;,&quot;click_label&quot;:&quot;corp_info&quot;,&quot;click_sub_label&quot;:&quot;map&quot;}">地図・アクセス</button></li><li><button name="button" type="button" on="tap:sidebar.close,corp_original_messages.scrollTo" disabled="disabled" data-extended-click="{&quot;event_category&quot;:&quot;drawer_menu&quot;,&quot;event_label&quot;:&quot;corp_info&quot;,&quot;event_sub_label&quot;:&quot;messages&quot;,&quot;send_to&quot;:&quot;G-59XEMD0N98&quot;}" data-gtm-cross-sectional-click="{&quot;event&quot;:&quot;byoinnavi-drawer-menu-click&quot;,&quot;click_label&quot;:&quot;corp_info&quot;,&quot;click_sub_label&quot;:&quot;messages&quot;}">医療機関からのメッセージ</button></li><li><button name="button" type="button" on="tap:sidebar.close,reviews.scrollTo" disabled="disabled" data-extended-click="{&quot;event_category&quot;:&quot;drawer_menu&quot;,&quot;event_label&quot;:&quot;corp_info&quot;,&quot;event_sub_label&quot;:&quot;reviews&quot;,&quot;send_to&quot;:&quot;G-59XEMD0N98&quot;}" data-gtm-cross-sectional-click="{&quot;event&quot;:&quot;byoinnavi-drawer-menu-click&quot;,&quot;click_label&quot;:&quot;corp_info&quot;,&quot;click_sub_label&quot;:&quot;reviews&quot;}">口コミ</button></li></ul></div><div class="find_more"><div class="heading">他の医療機関を探す</div><ul><li><a class="gtm-click-drawer-menu" data-extended-click="{&quot;event_category&quot;:&quot;drawer_menu&quot;,&quot;event_label&quot;:&quot;search&quot;,&quot;event_sub_label&quot;:&quot;top&quot;,&quot;send_to&quot;:&quot;G-59XEMD0N98&quot;}" data-gtm-cross-sectional-click="{&quot;click_label&quot;:&quot;search&quot;,&quot;click_sub_label&quot;:&quot;top&quot;}" href="/">再検索(トップページ)</a></li><li><a class="gtm-click-drawer-menu" data-extended-click="{&quot;event_category&quot;:&quot;drawer_menu&quot;,&quot;event_label&quot;:&quot;search&quot;,&quot;event_sub_label&quot;:&quot;area&quot;,&quot;send_to&quot;:&quot;G-59XEMD0N98&quot;}" data-gtm-cross-sectional-click="{&quot;click_label&quot;:&quot;search&quot;,&quot;click_sub_label&quot;:&quot;area&quot;}" href="/hyogo/takaguntakacho">多可郡多可町の検索結果</a></li></ul></div><div class="other_contents"><div class="heading">その他のコンテンツ</div><ul><li><a class="gtm-click-drawer-menu" data-extended-click="{&quot;event_category&quot;:&quot;drawer_menu&quot;,&quot;event_label&quot;:&quot;other&quot;,&quot;event_sub_label&quot;:&quot;medical_info&quot;,&quot;send_to&quot;:&quot;G-59XEMD0N98&quot;}" data-gtm-cross-sectional-click="{&quot;click_label&quot;:&quot;other&quot;,&quot;click_sub_label&quot;:&quot;medical_info&quot;}" href="/medical_info">医療コラム</a></li><li><a class="gtm-click-drawer-menu" data-extended-click="{&quot;event_category&quot;:&quot;drawer_menu&quot;,&quot;event_label&quot;:&quot;other&quot;,&quot;event_sub_label&quot;:&quot;about&quot;,&quot;send_to&quot;:&quot;G-59XEMD0N98&quot;}" data-gtm-cross-sectional-click="{&quot;click_label&quot;:&quot;other&quot;,&quot;click_sub_label&quot;:&quot;about&quot;}" href="/info/about">病院なびについて</a></li></ul></div></amp-sidebar>
+<div aria-hidden class="modal modal_recently_viewed_corps" id="modal_recently_viewed_corps">
+<div class="modal__overlay modal_recently_viewed_corps_overlay" data-micromodal-close tabindex="-1">
+<div aria-labelledby="modal-title" aria-modal class="modal__container modal_recently_viewed_corps_container" role="dialog">
+<header class="modal_recently_viewed_corps_header">
+<div class="modal_recently_viewed_corps_title" id="modal-title">
+
+
+  <div class="qclys-wrap_tab_cont">
+    <div class="qclys-cntr-min">
+      <div class="qclys-tab_cont active">
+        <div class="wrap_list_news">
+          <ul class="list_news">
+
