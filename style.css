@@ -1,3 +1,130 @@
+#####################################################
+#####################################################
+#####################################################
+#####################################################
+#####################################################
+#####################################################
+
+<script type='text/javascript' src='https://www.kobejrc.jp/admin/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+
+<script type='text/javascript' src='https://www.kobejrc.jp/admin/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+
+<style type="text/css">.blue-message {
+background: none repeat scroll 0 0 #3399ff;
+    color: #ffffff;
+    text-shadow: none;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 10px;
+} 
+.green-message {
+background: none repeat scroll 0 0 #8cc14c;
+    color: #ffffff;
+    text-shadow: none;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 10px;
+} 
+.orange-message {
+background: none repeat scroll 0 0 #faa732;
+    color: #ffffff;
+    text-shadow: none;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 10px;
+} 
+.red-message {
+background: none repeat scroll 0 0 #da4d31;
+    color: #ffffff;
+    text-shadow: none;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 10px;
+} 
+.grey-message {
+background: none repeat scroll 0 0 #53555c;
+    color: #ffffff;
+    text-shadow: none;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 10px;
+} 
+.left-block {
+background: none repeat scroll 0 0px, radial-gradient(ellipse at center center, #ffffff 0%, #f2f2f2 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #8b8e97;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+} 
+.right-block {
+background: none repeat scroll 0 0px, radial-gradient(ellipse at center center, #ffffff 0%, #f2f2f2 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    color: #8b8e97;
+    padding: 10px;
+    margin: 10px;
+    float: right;
+} 
+.blockquotes {
+background: none;
+    border-left: 5px solid #f1f1f1;
+    color: #8B8E97;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 22px;
+    padding-left: 15px;
+    padding: 10px;
+    width: 60%;
+    float: left;
+} 
+</style>
+
+#####################################################
+
+    <style>
+      html {
+        --ntp-focus-shadow-color: rgba(var(--google-blue-600-rgb), .4);
+        --ntp-theme-text-color: var(--google-grey-800);
+        background-attachment: fixed;
+        background-color: rgba(255,255,255,1);
+        background-position: -64px;
+        background-repeat: no-repeat;
+        height: 100%;
+        overflow: auto;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        html {
+          --ntp-focus-shadow-color: rgba(var(--google-blue-300-rgb), .5);
+          --ntp-theme-text-color: white;
+        }
+      }
+
+      html[has-custom-background] {
+        background-image: image-set(
+            url(chrome://theme/IDR_THEME_NTP_BACKGROUND?) 1x,
+            url(chrome://theme/IDR_THEME_NTP_BACKGROUND@2x?) 2x);
+      }
+
+      body {
+        align-items: center;
+        display: flex;
+        height: 100vh;
+        justify-content: center;
+        margin: 0;
+      }
+
+      cr-most-visited {
+        --most-visited-focus-shadow: 0 0 0 2px var(--ntp-focus-shadow-color);
+        --most-visited-text-color: var(--ntp-theme-text-color);
+        --most-visited-text-shadow: none;
+      }
+
+      html[has-custom-background] cr-most-visited {
+        --most-visited-text-shadow: 0 0 16px rgba(0, 0, 0, .3);
+      }
+    </style>
+
+#####################################################
+
 <style>
 #btn {
   position: fixed;
@@ -11,3 +138,17 @@
   margin: auto;
 }
 </style>
+
+#####################################################
+
+    <style>
+      html, body {
+        box-sizing: border-box;
+        display: flow-root;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+
+#####################################################
