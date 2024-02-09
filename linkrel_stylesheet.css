@@ -8,7 +8,19 @@
 ####################################################
 ####################################################
 ####################################################
+
+		<link href="/common/css/base2.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="/common/css/fluid-substitute-style.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="/common/css/original_hq.css" rel="stylesheet" type="text/css" media="all" />
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous" media="all">
+		
 ####################################################
+
+	<link rel="stylesheet" type="text/css" href="/content/dam/31sumai/mfr/X1919/common/css/bootstrap.css" media="all"/>
+	<link rel="stylesheet" type="text/css" href="/content/dam/31sumai/mfr/X1919/common/css/common.css" media="all"/>
+	<link rel="stylesheet" type="text/css" href="/content/dam/31sumai/mfr/X1919/common/css/components.css" media="all"/>
+	<link rel="stylesheet" type="text/css" href="/content/dam/31sumai/mfr/X1919/common/css/theme.css" media="all"/>
+	
 ####################################################
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/gokertanrisever/leaflet-ruler@master/src/leaflet-ruler.css" 
