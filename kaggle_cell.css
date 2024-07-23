@@ -1,0 +1,63 @@
+##############################################
+##############################################
+
+def styled_heading(text):
+    return f"""
+    <p style="
+        font-family: 'Amiri'; 
+        font-size: 3rem; 
+        color: yellow; 
+        text-align: center; 
+        margin: 0; 
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); 
+        background-color: #5fa1bc; 
+        padding: 20px; 
+        border-radius: 20px; 
+        border: 7px solid yellow; 
+        width:95%">
+        {text}
+    </p>
+    """
+
+##############################################
+
+<div style="border: 2px solid #14adc6; padding: 10px; max-width: 1000px; margin: 0 auto;">
+    <p>
+        "Alone we can do so little; together we can do so much." - Helen Keller 🌟
+    </p>
+    <p>
+        I am <b>Saman Fatima</b>, a passionate data scientist dedicated to mastering machine learning techniques and continually expanding my knowledge base. I believe in the mantra of KeepLearning and KeepSupporting, as I am committed to constant growth and uplifting others in the field. 🚀
+    </p>
+    <div style="text-align: center;">
+        <img src="https://media.licdn.com/dms/image/D4D03AQFAcZhjvE7C0Q/profile-displayphoto-shrink_800_800/0/1714558384812?e=1721260800&v=beta&t=vfqq1fnuYMej7Tpr_MGPhs1c9DuVyJHbzZT0XuacRds" alt="Profile Picture" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #14adc6;"><br>
+    </div>
+    <p>
+        You can find more about me on my <a href="https://www.linkedin.com/in/saman-fatima-datascience/" target="_blank">LinkedIn</a>.<br>
+        Feel free to connect and reach out for any collaboration or queries! 📊
+    </p>
+    <p>My skills include:</p>
+    <ul style="list-style-type: disc; margin-left: 20px;">
+        <li>Data Analysis 📉</li>
+        <li>Machine Learning 🤖</li>
+        <li>Deep Learning 🧠</li>
+        <li>Statistical Modeling 📈</li>
+        <li>Data Visualization 📊</li>
+    </ul>
+    <p> If you find any content helpful, consider giving it an upvote. Your support means a lot! 👍</p>
+</div>
+
+##############################################
+
+<span style="font-size: 14px; font-family: Verdana; background-color: #5fa1bc; color: white; 
+border: 2px solid #ccc; padding: 10px; border-radius: 10px; display: inline-block;">
+  I've created a convenient function to display detailed information about the dataset with just one click. 
+</span>
+
+##############################################
+
+# 
+<p style="font-family: 'Amiri'; font-size: 3rem; color: yellow; text-align: center; margin: 0; 
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); background-color: #5fa1bc; padding: 20px; border-radius: 20px; 
+border: 7px solid yellow; width:95%">˚ ༘ ೀ⋆｡ About The Auther  ˚ ༘ ೀ⋆｡ ˚</p>
+
+##############################################
