@@ -2,3 +2,20 @@
 
 <h1><center>$\color{purple}{\text{$\color{purple}{\text{Mutual Information >> Correlation}}$}}$</center></h1>
 
+Markdownでは、ドル記号（`$`）を使ってLaTeX形式で数式を表示します。例えば：
+
+```markdown
+$y = mx + b$
+```
+
+これは、インラインで数式をきれいに表示します。
+
+ブロック形式の数式を表示するには、ドル記号を二重にします：
+
+```markdown
+$$
+E = mc^2
+$$
+```
+
+これにより、数式が中央揃えで別行に表示されます。
